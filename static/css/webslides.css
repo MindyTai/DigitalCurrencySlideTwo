@@ -3800,8 +3800,8 @@ Slides Index
   section#chart {
     animation:showcase 10s 1s ease-in-out infinite;
     transform-style:preserve-3d;
-    transform:rotateX(70deg) rotate(-8deg);
-    top: -125px;
+    transform:rotateX(65deg) rotate(8deg);
+    top: -120px;
   }
   @keyframes showcase {
     50%{ transform:perspective(1000) rotateX(85deg) rotate(30deg); }
