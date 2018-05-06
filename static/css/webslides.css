@@ -4214,3 +4214,8 @@ Slides Index
 a:hover{
   color: #C1D5D5;
 }
+
+
+pre#chart{
+  margin-top: 20px;
+}
