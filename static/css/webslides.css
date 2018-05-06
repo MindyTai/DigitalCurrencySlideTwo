@@ -494,7 +494,7 @@ figure.alignleft {
 
 pre {
   font-family: 微軟正黑體;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   line-height: 2.4rem;
   overflow: auto;
   padding: 2.4rem;
@@ -3800,7 +3800,7 @@ Slides Index
   section#chart {
     animation:showcase 10s 1s ease-in-out infinite;
     transform-style:preserve-3d;
-    transform:rotateX(70deg) rotate(-15deg);
+    transform:rotateX(70deg) rotate(-8deg);
     top: -125px;
   }
   @keyframes showcase {
