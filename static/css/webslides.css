@@ -3804,7 +3804,7 @@ Slides Index
     animation:showcase 10s 1s ease-in-out infinite;
     transform-style:preserve-3d;
     transform:rotateX(70deg) rotate(-15deg);
-    top: -90px;
+    top: -200px;
   }
   @keyframes showcase {
     50%{ transform:perspective(1000) rotateX(85deg) rotate(30deg); }
