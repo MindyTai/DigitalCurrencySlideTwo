@@ -1,6 +1,6 @@
 # DigitalCurrencySlideTwo
 
-Demo: https://mindytai.github.io/DigitalCurrencySlideTwo/#slide=1
+Demo: https://mindytai.github.io/digitalCurrencySlideTwo/#slide=1
 
 Thanks to 
 
